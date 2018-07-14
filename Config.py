@@ -1,0 +1,19 @@
+vocab_size = 5004
+batch_size = 32
+initializer_scale = 0.08
+image_feature_size = 2048
+num_lstm_units = 512
+embedding_size = 512
+lstm_dropout_keep_prob = 0.7
+padded_length = 25
+_null = 0 
+_start = 1 
+_end = 2
+
+num_examples_per_epoch = 400000
+optimizer = "SGD"
+initial_learning_rate = 2.0 
+learning_rate_decay_factor = 0.5 
+num_epochs_per_decay = 8.0 
+clip_gradients = 5.0
+total_num_epochs = 30
