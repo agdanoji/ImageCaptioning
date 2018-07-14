@@ -1,5 +1,5 @@
 # ImageCaptioning
-Image Captioning can be useful for physically disabled  people  like  semi-blind  or  blind  people  if voice output is added to the generated captions. It can also be used in virtual assistants such as Sirior Cortana to help searching images of a particu-lar type.  For e.g.:- ”Show me pictures of myselfwearing a blue shirt.” Thus, we can see that therei s plenty of motivation and usefulness involved inthe image captioning task.
+Image Captioning can be useful for physically disabled  people  like  semi-blind  or  blind  people  if voice output is added to the generated captions. It can also be used in virtual assistants such as Sirior Cortana to help searching images of a particular type.  For e.g.:- ”Show me pictures of myselfwearing a blue shirt.” Thus, we can see that there is plenty of motivation and usefulness involved in the image captioning task.
 
 In this project, we implemented three different techniques used for Image Captioning:
 1.  CNN-RNN (Google’s Implementation as ourbaseline)
